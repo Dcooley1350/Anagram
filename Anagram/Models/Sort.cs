@@ -7,7 +7,7 @@ namespace Anagram.Models
     {
        
         public static string masterWord = "";
-        public static List<char[]> organizedList = new List<char[]>();
+        // public static List<char[]> organizedList = new List<char[]>();
         public static List<string> userWords = new List<string>();
 
         public static List<char[]> charList = new List<char[]>();
